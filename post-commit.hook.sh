@@ -18,6 +18,8 @@ if [ -z "$(git remote)" ]; then
   echo "Remote established to: $ZEPPELIN_GITHUB_REPO"
 fi
 
+echo "Pushing changes to Github..."
+
 git push origin master
 
 echo "Finished pushing to Github."
