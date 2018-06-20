@@ -27,3 +27,7 @@ To run manually, simply invoke the script. To invoke with environment variables
 To check the logs, you can `tail` the log file. From the default location:
 
     tail -f /var/data/zeppelin/logs/zeppelin-git-output.log
+
+## Future
+
+Who knows? Maybe this inspires some more automation!
