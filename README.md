@@ -21,3 +21,9 @@ Optionally, you can provide the following environment variables
 To run manually, simply invoke the script. To invoke with environment variables
 
     GIT_LOG_FILE="./log.txt" ./post-commit.hook.sh
+
+## Logs
+
+To check the logs, you can `tail` the log file. From the default location:
+
+    tail -f /var/data/zeppelin/logs/zeppelin-git-output.log
