@@ -18,3 +18,6 @@ Optionally, you can provide the following environment variables
 * `ZEPPELIN_GITHUB_REPO` - The SSH URL for the Github repository.
 * `GIT_LOG_FILE` - The full path of the logging file.
 
+To run manually, simply invoke the script. To invoke with environment variables
+
+    GIT_LOG_FILE="./log.txt" ./post-commit.hook.sh
