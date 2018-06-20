@@ -9,7 +9,7 @@ Simply run the provided `install.sh` script. It will find all scripts with the `
 
 Note that files will have their `hook` and extensions stripped. They are provided for your editor's convenience.
 
-## Running
+## Run
 
 Runs after every successful commit and pushes the new commit to github.
 
