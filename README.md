@@ -30,4 +30,4 @@ To check the logs, you can `tail` the log file. From the default location:
 
 ## Future
 
-Who knows? Maybe this inspires some more automation!
+Who knows? Maybe this inspires some more automation.
